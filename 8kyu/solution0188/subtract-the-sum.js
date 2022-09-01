@@ -128,5 +128,5 @@ function SubtractSum(n){
     }
     
     return result;
-  }
+  } 
   
